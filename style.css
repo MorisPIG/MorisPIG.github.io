@@ -118,7 +118,7 @@ body {
 	#content div.left {
 		width: 241px;
 		height: 322px;
-		background: url("images/feature-bg.png") no-repeat top left;
+		/*background: url("images/feature-bg.png") no-repeat top left;*/
 		float: left;
 	}
 	#content div.right {
@@ -202,7 +202,7 @@ ul#navigation {
 	}
 	#about ul li {
 		float: left;
-		font-size: 18px;
+		font-size: 8px;
 		font-weight: bold;
 		margin-right: 40px;
 		padding: 6px 10px 10px 6px;
@@ -329,7 +329,7 @@ input, textarea {
 
 #contactinfo {
 	margin: 50px 0 0 0;
-	background: url("images/icon-home.png") no-repeat top left;
+/*	background: url("images/icon-home.png") no-repeat top left;*/
 	}
 	#contactinfo p {
 	font-size: 21px;
